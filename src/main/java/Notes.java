@@ -9,7 +9,7 @@ class Notes {
 		// 	fw = new FileWriter("example.txt"); //Creates a new file, replaces the old one if it already exists
 			
 		// 	fw.write("Hello\n"); //more similar to print than println (does not add a newline)
-		// 	fw.write("Bye");
+		// 	fw.write("Bye123");
 		// }
 		// catch (IOException e) {
 		// 	System.out.println(e);
